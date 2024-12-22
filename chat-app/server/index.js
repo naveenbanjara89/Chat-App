@@ -10,7 +10,7 @@ require("dotenv").config();
 // app.use(cors());
 app.use(
   cors({
-    origin: "https://chat-app-6bem.onrender.com",
+    origin: "https://chat-u.vercel.app",
   })
 );
 
